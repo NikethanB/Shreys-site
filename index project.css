@@ -1,0 +1,81 @@
+h1{
+    font-family: 'Mochiy Pop One', sans-serif;
+    text-align: center;
+}
+body{
+    background-image: url("./Bg/Bg1.jfif");
+    width: 100%;
+    margin: auto;
+    background-size: cover;
+}
+.Background-Inter{
+    background-image: url("./Bg/Bg2.jfif");
+    width: 80%;
+    background-size: 1200px;
+    margin: auto;
+    height: 110vh;
+    background-position: center;
+}
+h3{
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.BG1{
+    background-color: white;
+    background-size: 1200px;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+.Menu{
+    display: inline-block;
+    color: black;
+}
+.Home{
+    display: inline-block;
+    padding-right: 10px;
+    text-align: right;
+    width: 800px;
+}
+.Profile{
+    display: inline-block;
+    padding-right: 10px;
+    text-align: right;
+    width: 50px;
+}
+.Blog{
+    display: inline-block;
+    padding-right: 10px;
+    text-align: right;
+    width: 50px;
+}
+.Portfolio{
+    display: inline-block;
+    padding-right: 10px;
+    text-align: right;
+    width: 50px;
+}
+.Pricing{
+    display: inline-block;
+    padding-right: 10px;
+    text-align: right;
+    width: 50px;
+}
+.Contact{
+    display: inline-block;
+    padding-right: 10px;
+    text-align: right;
+    width: 50px;
+}
+.gif1{
+    padding-left: 40px;
+}
+.Menu a:hover{
+    color: red;
+}
+.Home a:visited{
+    color: aqua;
+}
